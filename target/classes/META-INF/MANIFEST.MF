@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: zhijun.zhang
+Build-Jdk: 1.6.0_20
+Created-By: Maven Integration for Eclipse
+Rainbow: 1.0
+CreateUser: Sean(zhang.zhj85@gmail.com)
+
